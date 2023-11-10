@@ -1,0 +1,7 @@
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\AplicaçãoWeb\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.csproj.AssemblyReference.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\AplicaçãoWeb\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\AplicaçãoWeb\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.AssemblyInfoInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\AplicaçãoWeb\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.AssemblyInfo.cs
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\AplicaçãoWeb\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.csproj.CoreCompileInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\AplicaçãoWeb\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\AplicaçãoWeb\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.MvcApplicationPartsAssemblyInfo.cache
